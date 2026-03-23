@@ -59,18 +59,9 @@ While building this project, I focused on:
 
 ---
 
-## 📬 Contact
-
-If you’d like to connect or learn more, feel free to reach out.
-
----
 
 ## ⭐ Acknowledgments
 
 This project was built as part of my journey in learning web development and improving how I present myself online.
 
 ---
-
-## 📄 License
-
-This project is open source and available under the MIT License.
